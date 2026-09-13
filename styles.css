@@ -912,7 +912,7 @@ h3 {
 
   .hero,
   .page-hero {
-    padding-block: 48px 82px;
+    padding-block: 48px 52px;
   }
 
   .hero-actions {
@@ -938,7 +938,11 @@ h3 {
   }
 
   .page-section {
-    padding-block: 82px;
+    padding-block: 52px;
+  }
+
+  .gift-detail {
+    gap: 32px;
   }
 
   .sunset-note-copy {
